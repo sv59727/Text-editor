@@ -1,0 +1,10 @@
+# Text-editor
+In my second project i have made a text editor. The project is about to design a simple text editor using  the common feature of java and frameworks. The text editor can edit almost any type of format like .txt, .html etc. Easy to use implementation of shortcut keys for basic editing function. This project is designing over java common features . There are three item in menubar File , edit and help. In file we have many option like New, open, save , print and exit and in edit section we have cut, copy, paste and select all. In last item of menubar is for about section. So simplify the use of text editor of windows in OS with ease. The main objective of this project is to edit or update the text.
+
+Concept used -> Swing and file handling
+
+Swing is used for graphical user interface (GUI)
+
+Firstly we extends JFrame class that is in Java.swing.*;
+
+In starting we make object ,after just the constructor is call we get to see the frame. 
