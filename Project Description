@@ -6,7 +6,10 @@ all. In last item of menubar is for about section. So simplify the use of text e
 
 Concept used -> Swing and file handling
 
-Swing is used for graphical user interface (GUI)
+File handling -> File handling in Java is defined as reading and writing data to a file. ... Thus, if we want to use a file class, we need to create an object of that particular class and should specify the filename or directory name.
+
+Swing -> Swing is used for graphical user interface (GUI)
+Swing is a GUI widget toolkit for Java. It is part of Oracle's Java Foundation Classes – an API for providing a graphical user interface for Java programs. Swing was developed to provide a more sophisticated set of GUI components than the earlier Abstract Window Toolkit. 
 
 Firstly we extends JFrame class that is in Java.swing.*;
 
